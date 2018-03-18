@@ -1,0 +1,17 @@
+C:\projects\ConsoleTests\bin\Debug\Details\FIX44.xml
+C:\projects\ConsoleTests\bin\Debug\Details\AcceptorSessionsTemplate.ini
+C:\projects\ConsoleTests\bin\Debug\NLog.config
+C:\projects\ConsoleTests\bin\Debug\ConsoleTests.exe.config
+C:\projects\ConsoleTests\bin\Debug\ConsoleTests.exe
+C:\projects\ConsoleTests\bin\Debug\ConsoleTests.pdb
+C:\projects\ConsoleTests\bin\Debug\Newtonsoft.Json.dll
+C:\projects\ConsoleTests\bin\Debug\Terrakoton.exe
+C:\projects\ConsoleTests\bin\Debug\NLog.dll
+C:\projects\ConsoleTests\bin\Debug\websocket-sharp.dll
+C:\projects\ConsoleTests\bin\Debug\QuickFix.dll
+C:\projects\ConsoleTests\bin\Debug\Terrakoton.pdb
+C:\projects\ConsoleTests\bin\Debug\Newtonsoft.Json.xml
+C:\projects\ConsoleTests\bin\Debug\NLog.xml
+C:\projects\ConsoleTests\obj\Debug\ConsoleTests.csprojResolveAssemblyReference.cache
+C:\projects\ConsoleTests\obj\Debug\ConsoleTests.exe
+C:\projects\ConsoleTests\obj\Debug\ConsoleTests.pdb
